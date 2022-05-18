@@ -3,6 +3,7 @@
   margin: 0;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
+  font-size: 13px;
 }
 
 .container {
@@ -19,11 +20,13 @@
   color: white;
   border-radius: .5rem;
   margin-bottom: 2rem;
+  height: 95%;
 }
 
 .daniel__image {
   border-radius: 100%;
-  width: 25%;
+  width: 5rem;
+  height: 4rem;
 }
 
 .daniel__title {
@@ -57,7 +60,8 @@
 
 .jonathan__image {
   border-radius: 100%;
-  width: 25%;
+  width: 5rem;
+  height: 4rem;
 }
 
 .jonathan__title {
@@ -90,7 +94,8 @@
 
 .jeanette__image {
   border-radius: 100%;
-  width: 25%;
+  width: 5rem;
+  height: 4rem;
 }
 
 .jeanette__title {
@@ -120,11 +125,13 @@
   padding: 1rem;
   border-radius: .5rem;
   margin-bottom: 2rem;
+  height: 95%;
 }
 
 .patrick__image {
   border-radius: 100%;
-  width: 25%;
+  width: 5rem;
+  height: 4rem;
 }
 
 .patrick__title {
@@ -153,11 +160,13 @@
   padding: 1rem;
   border-radius: .5rem;
   margin-bottom: 2rem;
+  height: 98%;
 }
 
 .kira__image {
   border-radius: 100%;
-  width: 25%;
+  width: 5rem;
+  height: 4rem;
 }
 
 .kira__title {
